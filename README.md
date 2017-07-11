@@ -1,6 +1,10 @@
 # イベント案内
 ## 「WLOラズパイ倶楽部　みんなではじめようRaspberry Pi」
 
+## Peatix イベント申し込みページ
+http://wloraspi170713.peatix.com/
+<br>（申し込みにはパスワードが必要です。イントラネットのGlobal Portalをご参照ください）
+
 ## 詳細
 WLOラズパイ倶楽部は、RaspberryPiやArduinoなどを使った 趣味の電子工作に興味ある有志の集まりです。 
 
