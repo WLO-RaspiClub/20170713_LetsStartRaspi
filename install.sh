@@ -1,6 +1,6 @@
 #!/bin/bash
 # big package remove before update
-sudo apt-get purge wolfram-engine wolfram-script -y
+sudo apt-get purge wolfram-engine wolframscript -y
 
 # package update
 sudo apt-get update -y
