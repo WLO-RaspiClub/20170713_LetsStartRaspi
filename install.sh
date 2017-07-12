@@ -7,7 +7,7 @@ sudo apt-get update -y
 sudo apt-get upgrade -y
 
 # Japanese font and IM
-sudo apt-get install ibus-mozc fonts-imafont fonts-ipaexfont -y
+sudo apt-get install ibus-mozc fonts-ipafont fonts-ipaexfont -y
 
 # libreoffice-l10n-ja
 sudo apt-get install libreoffice-l10n-ja -y
