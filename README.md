@@ -73,4 +73,6 @@ Wonder LAB Osaka　交流スペースHUB
 Peatixでの事前のご参加申し込みを必ずお願いします<br>
 
 ## 主催
-WLOラズパイ倶楽部（パナソニック社員の有志の集まり）
+WLOラズパイ倶楽部（パナソニック社員の有志の集まり）<br>
+協力:株式会社スイッチサイエンス https://www.switch-science.com/
+
