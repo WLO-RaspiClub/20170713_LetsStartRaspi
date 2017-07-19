@@ -13,16 +13,16 @@ sudo apt-get install ibus-mozc fonts-ipafont fonts-ipaexfont -y
 sudo apt-get install libreoffice-l10n-ja -y
 
 # NotoSans(Gothic) font
-wget -O NotoSansCJKjp-hinted.zip https://noto-website-2.storage.googleapis.com/pkgs/NotoSansCJKjp-hinted.zip
+wget -O NotoSansCJKjp-hinted.zip https://noto-website.storage.googleapis.com/pkgs/NotoSansCJKjp-hinted.zip
 unzip -d NotoSansCJKjp-hinted NotoSansCJKjp-hinted.zip
 sudo mkdir -p /usr/share/fonts/opentype
-sudo mv -fv ./NotoSansCJKjp-hinted /usr/share/fonts/opentype/note
+sudo mv -fv ./NotoSansCJKjp-hinted/* /usr/share/fonts/opentype/note
 rm -rfv NotoSansCJKjp-hinted.zip
 
 # NotoSerif(Mincho)
 wget -O NotoSerifCJKjp-hinted.zip https://noto-website.storage.googleapis.com/pkgs/NotoSerifCJKjp-hinted.zip
 unzip -d NotoSerifCJKjp-hinted NotoSerifCJKjp-hinted.zip
-sudo mv -fv ./NotoSerifCJKjp-hinted /usr/share/fonts/opentype/note
+sudo mv -fv ./NotoSerifCJKjp-hinted/* /usr/share/fonts/opentype/note
 rm -rfv NotoSerifCJKjp-hinted.zip
 
 # font cache
