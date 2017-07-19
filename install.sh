@@ -13,7 +13,7 @@ sudo apt-get install ibus-mozc fonts-ipafont fonts-ipaexfont -y
 sudo apt-get install libreoffice-l10n-ja -y
 
 # autoremove
-sudo apt-get autoremove
+sudo apt-get autoremove -y
 
 # old "note" directory remove (my mistake on 2017/7/13)
 sudo rm -R /usr/share/fonts/opentype/note
