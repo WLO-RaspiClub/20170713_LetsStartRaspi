@@ -20,7 +20,7 @@ sudo mv -fv ./NotoSansCJKjp-hinted /usr/share/fonts/opentype/note
 rm -rfv NotoSansCJKjp-hinted.zip
 
 # NotoSerif(Mincho)
-wget -O NotoSerifCJKjp-hinted.zip https://noto-website-2.storage.googleapis.com/pkgs/NotoSerifCJKjp-hinted.zip
+wget -O NotoSerifCJKjp-hinted.zip https://noto-website.storage.googleapis.com/pkgs/NotoSerifCJKjp-hinted.zip
 unzip -d NotoSerifCJKjp-hinted NotoSerifCJKjp-hinted.zip
 sudo mv -fv ./NotoSerifCJKjp-hinted /usr/share/fonts/opentype/note
 rm -rfv NotoSerifCJKjp-hinted.zip
